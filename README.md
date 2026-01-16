@@ -24,7 +24,7 @@ The focus of this project is on visual storytelling, layout design, and animatio
 ---
 
 ## 🕺 Character Animation
-![Character Animation](animations/character-animation.gif)
+![Character Animation](animations/Character_Actions_Video_Generation.gif)
 
 ---
 
